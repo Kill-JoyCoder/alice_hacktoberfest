@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Ankur Gohain](https://github.com/Kill-JoyCoder)
+- Place: Chennai, India 
+- Bio: Playing S.T.A.L.K.E.R.
+- Github: [Ankur Gohain](https://github.com/Kill-JoyCoder)
